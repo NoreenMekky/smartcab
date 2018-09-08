@@ -11,6 +11,10 @@ applying reinforcement learning techniques for a self-driving agent in a simplif
 
 ![alt text](https://raw.githubusercontent.com/NoreenMekky/smartcab/master/"pygame window.png")
 
+### Final Rate
+
+![final rate](https://raw.githubusercontent.com/NoreenMekky/smartcab/master/rate.png)
+
 
 
 
