@@ -9,7 +9,7 @@ In the not-so-distant future, taxicab companies across the United States no long
 # Implementation
 applying reinforcement learning techniques for a self-driving agent in a simplified world to aid it in effectively reaching its destinations in the allotted time.
 
-![alt text](https://raw.githubusercontent.com/NoreenMekky/smartcab/master/pygame window.PNG)
+![alt text](https://raw.githubusercontent.com/NoreenMekky/smartcab/master/"pygame window.PNG")
 
 
 
